@@ -1,0 +1,10 @@
+loading autotest/rails_rspec2
+
+
+--------------------------------------------------------------------------------
+
+[2J[fbundle exec /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby -S /Library/Ruby/Gems/1.8/gems/rspec-core-2.3.1/bin/rspec --tty '/Users/jj/rails_projects/sample_app/spec/requests/layout_links_spec.rb' '/Users/jj/rails_projects/sample_app/spec/models/user_spec.rb' '/Users/jj/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb' '/Users/jj/rails_projects/sample_app/spec/controllers/users_controller_spec.rb'
+[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m
+
+Finished in 0.19247 seconds
+[32m19 examples, 0 failures[0m
